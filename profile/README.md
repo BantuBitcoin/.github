@@ -13,7 +13,7 @@ In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitc
 
 🎥 YouTube: [@BantuBitcoin](https://www.youtube.com/@BantuBitcoin)
 
-🦩 Nostr: [npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90) or search Bitcoin@8333.mobi
+🦩 Nostr: [npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90) or search <code>Bitcoin@8333.mobi</code>
 
 ✉️ Email: BantuBitcoin@protonmail.com
 
