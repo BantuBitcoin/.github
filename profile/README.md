@@ -5,14 +5,17 @@
 
 (English translation follows each [Bemba](https://bantubitcoin.substack.com/s/bemba) episode. The [English](https://bantubitcoin.substack.com/s/english) feed is different content, more interviews and behind-the-scenes from my experience here in rural Zambia. **Two different shows.**)
 
+[![text](https://5atoshinakamoto.github.io/assets/images/btcpodcasting-large.jpeg)(https://bantubitcoin.substack.com/)
+
 Hosted in rural Zambia by American [5atoshiNakamoto](https://5atoshiNakamoto.github.io).
 
 In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitcoin for Fairness](https://bffbtc.org/on-the-ground/bff-zambia/), with [BitcoinZambia.org](https://bitcoinzambia.org/).
 
 ## 🎧 Listen
-[https://BantuBitcoin.substack.com](https://bantubitcoin.substack.com)
 
-## 🎥 Watch
+🎙️ [https://BantuBitcoin.substack.com](https://bantubitcoin.substack.com)
+
+## 🎬 Watch
 
 🎥 YouTube: [@BantuBitcoin](https://www.youtube.com/@BantuBitcoin)
 
