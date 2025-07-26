@@ -10,7 +10,7 @@ Hosted in rural Zambia by American [5atoshiNakamoto](https://5atoshiNakamoto.git
 In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitcoin for Fairness](https://bffbtc.org/on-the-ground/bff-zambia/), with [BitcoinZambia.org](https://bitcoinzambia.org/).
 
 ## 🎧 Listen
-<iframe src="https://bantubitcoin.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+[https://BantuBitcoin.substack.com](https://bantubitcoin.substack.com)
 
 ## 📇 Contact
 
