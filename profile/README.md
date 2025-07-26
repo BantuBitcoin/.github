@@ -9,12 +9,9 @@
 
 <p align="middle">
     <a href="https://bantubitcoin.substack.com/s/bemba" target="_blank"><img src="https://5atoshinakamoto.github.io/assets/images/bantu-bitcoin-bemba-substack.png" alt="Bantu Bitcoin [Bemba] podcast album art" style="width:50%"></a>
-
-     <a href="https://bantubitcoin.substack.com/s/english" target="_blank"><img src="https://5atoshinakamoto.github.io/assets/images/bantu-bitcoin-english-substack.png" alt="Bantu Bitcoin [English] podcast album art" style="width:50%"></a>
-  </p>
+    <a href="https://bantubitcoin.substack.com/s/english" target="_blank"><img src="https://5atoshinakamoto.github.io/assets/images/bantu-bitcoin-english-substack.png" alt="Bantu Bitcoin [English] podcast album art" style="width:50%"></a>
+</p>
     
-
-
 Hosted in rural Zambia by American [5atoshiNakamoto](https://5atoshiNakamoto.github.io).
 
 In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitcoin for Fairness](https://bffbtc.org/on-the-ground/bff-zambia/), with [BitcoinZambia.org](https://bitcoinzambia.org/).
