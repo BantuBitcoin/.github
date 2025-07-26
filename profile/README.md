@@ -11,24 +11,24 @@ In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitc
 
 ## 📇 Contact
 
-🎥 YouTube: <code>[@BantuBitcoin](https://www.youtube.com/@BantuBitcoin)</code>
+🎥 YouTube: [@BantuBitcoin](https://www.youtube.com/@BantuBitcoin)
 
-🦩 Nostr: <code>[npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90)</code> or search <code>[Bitcoin@8333.mobi](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90)</code>
+🦩 Nostr: <code>[npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90)</code> or search [Bitcoin@8333.mobi](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90)
 
-✉️ Email: <code>BantuBitcoin@protonmail.com</code>
+✉️ Email: BantuBitcoin@protonmail.com
 
 🔏 PGP Public Key: <code>[18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF](https://keys.openpgp.org/search?q=BantuBitcoin@protonmail.com)</code>
 
-🧑🏻‍💻 Website: <code>[https://BantuBitcoin.github.io](https://BantuBitcoin.github.io)</code>
+🧑🏻‍💻 Website: [https://BantuBitcoin.github.io](https://BantuBitcoin.github.io)
 
-⚡️ Host Lightning: <code>[5atoshiNakamoto@coinos.io](https://coinos.io/5atoshiNakamoto)</code>
+⚡️ Host Lightning: [5atoshiNakamoto@coinos.io](https://coinos.io/5atoshiNakamoto)
 
-⚡️ Podcast Lightning: <code>[BantuBitcoin@coinos.io](https://5atoshinakamoto.github.io/#bantu-bitcoin-donate)</code>
+⚡️ Podcast Lightning: [BantuBitcoin@coinos.io](https://5atoshinakamoto.github.io/#bantu-bitcoin-donate)
 
 
 ## Some of my friends here in rural Zambia that you may like to contribute sats to (in no particular order):
 
-⚡️ [Mwingi@8333.mobi(https://www.lnurlpay.com/mwingi@8333.mobi)
+⚡️ [Mwingi@8333.mobi](https://www.lnurlpay.com/mwingi@8333.mobi)
 
 ⚡️ [Royd@8333.mobi](https://www.lnurlpay.com/Royd@8333.mobi)
 
