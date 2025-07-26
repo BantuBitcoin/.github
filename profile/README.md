@@ -1,21 +1,52 @@
-<!--
-**5atoshiNakamoto/5atoshiNakamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bantu Bitcoin
 
-### Hi there 👋
+“Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mu iciBemba.
+Bantu Bitcoin is a podcast to learn about Bitcoin in Bemba.
 
-Here are some ideas to get you started:
+(English translation follows each [Bemba] episode. The [English] feed is different content, more interviews and behind-the-scenes from my experience here in rural Zambia. Two different shows.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hosted in rural Zambia by American @5atoshiNakamoto.
+
+In partnership with Anita Posch of Bitcoin for Fairness, with BitcoinZambia.org.
+
+## 📇 Contact
+
+🎥 YouTube: @BantuBitcoin
+
+🦩 Nostr: npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90 or search Bitcoin@8333.mobi
+
+✉️ Email: BantuBitcoin@protonmail.com
+
+🔏 PGP Public Key: 18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF
+
+🧑🏻‍💻 Website: https://5atoshiNakamoto.github.io/Bantu-Bitcoin
+
+⚡️ Host Lightning: 5atoshiNakamoto@coinos.io
+
+⚡️ Podcast Lightning: BantuBitcoin@coinos.io
 
 
--->
+## Some of my friends here in rural Zambia that you may like to contribute sats to (in no particular order):
+
+⚡️ Mwingi@8333.mobi
+
+⚡️ Royd@8333.mobi
+
+⚡️ Bwalya@8333.mobi
+
+⚡️ Peter@8333.mobi
+
+⚡️ Evans@8333.mobi
+
+⚡️ Emmanuel@8333.mobi
+
+⚡️ Sichande@8333.mobi
+
+⚡️ Chanda@8333.mobi
+
+And our podcast’s address: ⚡️ BantuBitcoin@coinos.io
+
+All donations to the show go toward helping onboard more rural Zambians, as I have above. Thank you.
 
 <details>
   <summary><b>🔏&nbsp;&nbsp;Bantu Bitcoin's PGP&nbsp;Public&nbsp;Key</b>: <code>18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</code></summary>
