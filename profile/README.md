@@ -1,4 +1,4 @@
-# Bantu Bitcoin
+# 🌍 Bantu Bitcoin Zambia Podcast
 
 “Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mu iciBemba.<br>
 <code>Bantu Bitcoin is a podcast to learn about Bitcoin in Bemba.</code>
@@ -8,6 +8,9 @@
 Hosted in rural Zambia by American [5atoshiNakamoto](https://5atoshiNakamoto.github.io).
 
 In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitcoin for Fairness](https://bffbtc.org/on-the-ground/bff-zambia/), with [BitcoinZambia.org](https://bitcoinzambia.org/).
+
+## 🎧 Listen
+<iframe src="https://bantubitcoin.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ## 📇 Contact
 
