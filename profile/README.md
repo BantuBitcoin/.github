@@ -1,7 +1,7 @@
 # Bantu Bitcoin
 
-“Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mu iciBemba.
-Bantu Bitcoin is a podcast to learn about Bitcoin in Bemba.
+“Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mu iciBemba.<br>
+<code>Bantu Bitcoin is a podcast to learn about Bitcoin in Bemba.</code>
 
 (English translation follows each [Bemba](https://bantubitcoin.substack.com/s/bemba) episode. The [English](https://bantubitcoin.substack.com/s/english) feed is different content, more interviews and behind-the-scenes from my experience here in rural Zambia. **Two different shows.**)
 
