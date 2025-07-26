@@ -1,11 +1,11 @@
+[![text](https://5atoshinakamoto.github.io/assets/images/btcpodcasting-large.jpeg)](https://bantubitcoin.substack.com/)
+
 # 🌍 Bantu Bitcoin Zambia Podcast
 
 “Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mu iciBemba.<br>
 <code>Bantu Bitcoin is a podcast to learn about Bitcoin in Bemba.</code>
 
 (English translation follows each [Bemba](https://bantubitcoin.substack.com/s/bemba) episode. The [English](https://bantubitcoin.substack.com/s/english) feed is different content, more interviews and behind-the-scenes from my experience here in rural Zambia. **Two different shows.**)
-
-[![text](https://5atoshinakamoto.github.io/assets/images/btcpodcasting-large.jpeg)(https://bantubitcoin.substack.com/)
 
 Hosted in rural Zambia by American [5atoshiNakamoto](https://5atoshiNakamoto.github.io).
 
