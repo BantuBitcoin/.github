@@ -3,48 +3,48 @@
 “Bantu Bitcoin” ni podcast ukusambilila pafya Bitcoin mu iciBemba.
 Bantu Bitcoin is a podcast to learn about Bitcoin in Bemba.
 
-(English translation follows each [Bemba] episode. The [English] feed is different content, more interviews and behind-the-scenes from my experience here in rural Zambia. Two different shows.)
+(English translation follows each [Bemba](https://bantubitcoin.substack.com/s/bemba) episode. The [English](https://bantubitcoin.substack.com/s/english) feed is different content, more interviews and behind-the-scenes from my experience here in rural Zambia. **Two different shows.**)
 
 Hosted in rural Zambia by American [5atoshiNakamoto](https://5atoshiNakamoto.github.io).
 
-In partnership with Anita Posch of Bitcoin for Fairness, with BitcoinZambia.org.
+In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitcoin for Fairness](https://bffbtc.org/on-the-ground/bff-zambia/), with [BitcoinZambia.org](https://bitcoinzambia.org/).
 
 ## 📇 Contact
 
-🎥 YouTube: @BantuBitcoin
+🎥 YouTube: [@BantuBitcoin](https://www.youtube.com/@BantuBitcoin)
 
 🦩 Nostr: [npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90) or search Bitcoin@8333.mobi
 
 ✉️ Email: BantuBitcoin@protonmail.com
 
-🔏 PGP Public Key: 18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF
+🔏 PGP Public Key: [18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF](https://keys.openpgp.org/search?q=BantuBitcoin@protonmail.com)
 
 🧑🏻‍💻 Website: [https://BantuBitcoin.github.io](https://BantuBitcoin.github.io)
 
-⚡️ Host Lightning: 5atoshiNakamoto@coinos.io
+⚡️ Host Lightning: [5atoshiNakamoto@coinos.io](https://coinos.io/5atoshiNakamoto)
 
-⚡️ Podcast Lightning: BantuBitcoin@coinos.io
+⚡️ Podcast Lightning: [BantuBitcoin@coinos.io](https://5atoshinakamoto.github.io/#bantu-bitcoin-donate)
 
 
 ## Some of my friends here in rural Zambia that you may like to contribute sats to (in no particular order):
 
-⚡️ Mwingi@8333.mobi
+⚡️ [Mwingi@8333.mobi(https://www.lnurlpay.com/mwingi@8333.mobi)
 
-⚡️ Royd@8333.mobi
+⚡️ [Royd@8333.mobi](https://www.lnurlpay.com/Royd@8333.mobi)
 
-⚡️ Bwalya@8333.mobi
+⚡️ [Bwalya@8333.mobi](https://www.lnurlpay.com/Royd@8333.mobi)
 
-⚡️ Peter@8333.mobi
+⚡️ [Peter@8333.mobi](https://www.lnurlpay.com/Peter@8333.mobi)
 
-⚡️ Evans@8333.mobi
+⚡️ [Evans@8333.mobi](https://www.lnurlpay.com/Evans@8333.mobi)
 
-⚡️ Emmanuel@8333.mobi
+⚡️ [Emmanuel@8333.mobi](https://www.lnurlpay.com/Emmanuel@8333.mobi)
 
-⚡️ Sichande@8333.mobi
+⚡️ [Sichande@8333.mobi](https://www.lnurlpay.com/Sichande@8333.mobi)
 
-⚡️ Chanda@8333.mobi
+⚡️ [Chanda@8333.mobi](https://www.lnurlpay.com/Chanda@8333.mobi)
 
-And our podcast’s address: ⚡️ BantuBitcoin@coinos.io
+And our podcast’s address: ⚡️ [BantuBitcoin@coinos.io](https://5atoshinakamoto.github.io/#bantu-bitcoin-donate)
 
 All donations to the show go toward helping onboard more rural Zambians, as I have above. Thank you.
 
