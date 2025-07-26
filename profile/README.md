@@ -52,7 +52,7 @@ And our podcast’s address: ⚡️ [BantuBitcoin@coinos.io](https://5atoshinaka
 
 All donations to the show go toward helping onboard more rural Zambians, as I have above. Thank you.
 
-## 🔏 PGP
+## 🔏 PGP Public Keys
 <details>
   <summary><b>🔏&nbsp;&nbsp;Bantu Bitcoin's PGP&nbsp;Public&nbsp;Key</b>: <code>18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</code></summary>
   <br/>
