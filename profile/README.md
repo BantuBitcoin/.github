@@ -5,7 +5,7 @@ Bantu Bitcoin is a podcast to learn about Bitcoin in Bemba.
 
 (English translation follows each [Bemba] episode. The [English] feed is different content, more interviews and behind-the-scenes from my experience here in rural Zambia. Two different shows.)
 
-Hosted in rural Zambia by American @5atoshiNakamoto.
+Hosted in rural Zambia by American [5atoshiNakamoto](https://5atoshiNakamoto.github.io).
 
 In partnership with Anita Posch of Bitcoin for Fairness, with BitcoinZambia.org.
 
@@ -13,13 +13,13 @@ In partnership with Anita Posch of Bitcoin for Fairness, with BitcoinZambia.org.
 
 🎥 YouTube: @BantuBitcoin
 
-🦩 Nostr: npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90 or search Bitcoin@8333.mobi
+🦩 Nostr: [npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90) or search Bitcoin@8333.mobi
 
 ✉️ Email: BantuBitcoin@protonmail.com
 
 🔏 PGP Public Key: 18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF
 
-🧑🏻‍💻 Website: https://5atoshiNakamoto.github.io/Bantu-Bitcoin
+🧑🏻‍💻 Website: [https://BantuBitcoin.github.io](https://BantuBitcoin.github.io)
 
 ⚡️ Host Lightning: 5atoshiNakamoto@coinos.io
 
