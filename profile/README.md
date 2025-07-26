@@ -9,12 +9,12 @@
 
 <div class="gallery-container">
   <div class="gallery">
-    <a href="https://bantubitcoin.substack.com/s/bemba" target="_blank"><img src="https://5atoshinakamoto.github.io/assets/images/bantu-bitcoin-bemba-substack.png" alt="Bantu Bitcoin [Bemba] podcast album art" style="width:100%"></a>
+    <a href="https://bantubitcoin.substack.com/s/bemba" target="_blank"><img src="https://5atoshinakamoto.github.io/assets/images/bantu-bitcoin-bemba-substack.png" alt="Bantu Bitcoin [Bemba] podcast album art" style="width:50%"></a>
     <!-- <div class="desc">Bemba</div> -->
   </div>
 
   <div class="gallery">
-     <a href="https://bantubitcoin.substack.com/s/english" target="_blank"><img src="https://5atoshinakamoto.github.io/assets/images/bantu-bitcoin-english-substack.png" alt="Bantu Bitcoin [English] podcast album art" style="width:100%"></a>
+     <a href="https://bantubitcoin.substack.com/s/english" target="_blank"><img src="https://5atoshinakamoto.github.io/assets/images/bantu-bitcoin-english-substack.png" alt="Bantu Bitcoin [English] podcast album art" style="width:50%"></a>
     <!-- <div class="desc">English</div> -->
   </div>
 </div>
