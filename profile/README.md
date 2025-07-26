@@ -12,9 +12,11 @@ In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitc
 ## 🎧 Listen
 [https://BantuBitcoin.substack.com](https://bantubitcoin.substack.com)
 
-## 📇 Contact
+## 🎥 Watch
 
 🎥 YouTube: [@BantuBitcoin](https://www.youtube.com/@BantuBitcoin)
+
+## 📇 Contact
 
 🦩 Nostr: <code>[npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90)</code> or search [Bitcoin@8333.mobi](https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90)
 
@@ -26,10 +28,9 @@ In partnership with [Anita Posch](https://anitaposch.com/tagged/zambia) of [Bitc
 
 ⚡️ Host Lightning: [5atoshiNakamoto@coinos.io](https://coinos.io/5atoshiNakamoto)
 
-⚡️ Podcast Lightning: [BantuBitcoin@coinos.io](https://5atoshinakamoto.github.io/#bantu-bitcoin-donate)
+## ⚡ Donate
 
-
-## Some of my friends here in rural Zambia that you may like to contribute sats to (in no particular order):
+### Some of my friends here in rural Zambia that you may like to contribute sats to (in no particular order):
 
 ⚡️ [Mwingi@8333.mobi](https://www.lnurlpay.com/mwingi@8333.mobi)
 
